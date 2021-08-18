@@ -1,0 +1,11 @@
+\
+\ Microtopic to catch bad language
+\
+
+@: badword
+
+badword: bodoh tolol goblok 
+
+Q: $badword
+A: Jangan kasar ${ "128531" emoji}
+--

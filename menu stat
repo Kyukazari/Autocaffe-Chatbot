@@ -1,0 +1,157 @@
+\
+\ Copyright © 2021 Asta Team all rights reserved.
+\
+\ @author: Asta Team
+\ @date: 30 Jul 2021
+\
+\ A brief description of this program.
+\
+
+Q: Mulai
+A: <h3><center> MENU UTAMA </center></h3> ${ "Kenapa sih Statistika &#129488" myButton } ${ "&#128200 Pengertian &#128201" myButton } ${ "&#128198 Hari Statistika Nasional &#128198" myButton } ${ "&#128218 Materi Statistika SMA &#128218" myButton } ${ "&#127979 Jurusan Statistika di Indonesia &#127979" myButton } ${ "&#128188 Prospek Kerja &#128188" myButton } ${ "&#128187 Aplikasi dan Kegunaan Statistika &#128187" myButton } ${ "&#128373 Fakta Seputar Statistika &#128373" myButton }
+--
+
+Q: Kenapa sih Statistika
+A: <center><h2>KENAPA SIH STATISTIKA?</h2></center> https://1.bp.blogspot.com/-Lk72CMobOsA/YRnd0hHNBTI/AAAAAAAAllY/umg7BCKKxwspU6NM-eFAF_baWIdkKyVlQCLcBGAsYHQ/s320/kenapa%2Bstatistika.gif <p align="justify"> Statistika di era digitalisasi itu sangat dibutuhkan, loh fren! Karena saat ini, berbagai teknologi menggunakan big data yang merupakan aplikasi dari statistika itu sendiri. Selain itu, saat ini banyak pekerjaan yang memerlukan statistika di bidang pemerintahan, kedokteran, kesehatan, ekonomi, bahkan bisnis, lho! Buat kamu yang penasaran penerapan dan aplikasi nya bagaimana, yuk jelajahi bersama Asta! <center>${ "&#10024 Menu &#10024" Button1 }</center> </p>
+--
+
+Q: Menu
+A: <h3><center> MENU UTAMA </center></h3> ${ "Kenapa sih Statistika &#129488" myButton } ${ "&#128200 Pengertian &#128201" myButton } ${ "&#128198 Hari Statistika Nasional &#128198" myButton } ${ "&#128218 Materi Statistika SMA &#128218" myButton } ${ "&#127979 Jurusan Statistika di Indonesia &#127979" myButton } ${ "&#128188 Prospek Kerja &#128188" myButton } ${ "&#128187 Aplikasi dan Kegunaan Statistika &#128187" myButton } ${ "&#128373 Fakta Seputar Statistika &#128373" myButton }
+--
+
+Q: Pengertian
+A: <center><h2>-----PENGERTIAN-----</h2></center> https://1.bp.blogspot.com/-sNtEdREy7WY/YRndx1wadlI/AAAAAAAAllI/rOe5-Tz9hG8FL5-vi4FI8WL4y2d27_wOwCLcBGAsYHQ/s320/apa%2Bitu%2Bstatistika.gif <p align="justify"> Kita sering mendengar kata statistika. Nah, apa itu statistika? &#128373 Statistika adalah pengetahuan yang berhubungan dengan cara - cara pengumpulan data pengelolaan atau penganalisisan nya dan penarikan kesimpulan berdasarkan kumpulan data dan penganalisisan yang dilakukan.<p><b>Sumber:</b>Buku Metode Statistika Penulis Sudjana</p> <center>${ "&#10024 Menu &#10024" Button1 }</center>
+--
+
+Q: Menu
+A: <h3><center> MENU UTAMA </center></h3> ${ "Kenapa sih Statistika &#129488" myButton } ${ "&#128200 Pengertian &#128201" myButton } ${ "&#128198 Hari Statistika Nasional &#128198" myButton } ${ "&#128218 Materi Statistika SMA &#128218" myButton } ${ "&#127979 Jurusan Statistika di Indonesia &#127979" myButton } ${ "&#128188 Prospek Kerja &#128188" myButton } ${ "&#128187 Aplikasi dan Kegunaan Statistika &#128187" myButton } ${ "&#128373 Fakta Seputar Statistika &#128373" myButton }
+--
+
+Q: Hari Statistika Nasional
+A: <center><h2>---HARI STATISTIKA---</h2> <h2>NASIONAL</h2> https://1.bp.blogspot.com/-I5xb-KMyW6c/YRndy6t-lpI/AAAAAAAAllQ/Irj0vqppvQ8IjSunXQoTPvC4uVMLQ2uVwCLcBGAsYHQ/s320/hari%2Bstatistka%2Bnasional.gif <p align="center"> Hari Statistika nasional jatuh pada tanggal 26 September loh fren ${ 129299 emoji}</p></center> <center>${ "&#10024 Menu &#10024" Button1 }</center>
+--
+
+Q: Menu
+A: <h3><center> MENU UTAMA </center></h3> ${ "Kenapa sih Statistika &#129488" myButton } ${ "&#128200 Pengertian &#128201" myButton } ${ "&#128198 Hari Statistika Nasional &#128198" myButton } ${ "&#128218 Materi Statistika SMA &#128218" myButton } ${ "&#127979 Jurusan Statistika di Indonesia &#127979" myButton } ${ "&#128188 Prospek Kerja &#128188" myButton } ${ "&#128187 Aplikasi dan Kegunaan Statistika &#128187" myButton } ${ "&#128373 Fakta Seputar Statistika &#128373" myButton }
+--
+
+Q: Materi Statistika SMA
+A: <center><h2>----MATERI----</h2> <h2>STATISTIKA</h2> <h2>SMA</h2></center> https://1.bp.blogspot.com/-4In2oFd3Lao/YRnd4MLt0BI/AAAAAAAAllc/PMkmmYbV7McBx8A6KOcdPkOzsgmANUK2gCLcBGAsYHQ/s320/materi%2Bstatistika%2Bsma.gif <p align="justify"><ul style="line-height:180%"><li>Penyajian data dalam bentuk tabel frekuensi, diagram lingkaran, diagram garis, dan diagram batang untuk data tunggal serta tabel distribusi frekuensi, histogram, poligon, dan ogive untuk data kelompok</li></p> <p align="justify"><li>Ukuran pemusatan data yaitu mean, median, dan modus baik data tunggal maupun kelompok</li></p> <p align="justify"><li>Ukuran Letak yang mana meliputi kuartil(Q), desil(D), dan Persentil(P)</li></p> <p align="justify"><li>Ukuran penyebaran data yaitu jangkauan, simpangan kuartil, hamparan, simpangan rata-rata, simpangan baku, dan ragam</li></ul></p> <center>${"Video Pembelajaran &#128248" Button11} ${"Rangkuman Materi &#128210" Button11} ${"&#9997 Kuis &#9997" Button11} ${ "&#10024 Menu &#10024" Button1 }</center>
+--
+
+Q: Rangkuman Materi
+A: <center><h4>----Ringkasan Materi----</h4> https://1.bp.blogspot.com/-99RVhfGJnyM/YRnd40m5-JI/AAAAAAAAllg/3a1aKaKzHAg2VKsD-bRrzkho1IBdZ5WVgCLcBGAsYHQ/s320/ringkasan.gif ${ "Ringkasan_1" "https://www.konsep-matematika.com/2015/10/statistika-penyajian-data.html" link } <p>${ "Ringkasan_2" "https://tanya-tanya.com/rangkuman-contoh-soal-pembahasan-statistika/#Perumusan_Ukuran_Statistika" link }</p> <p>${ "&#128218 Materi Statistika SMA &#128218" Button11 } ${ "&#10024 Menu &#10024" Button1 }</p></center>
+--
+
+Q: Video Pembelajaran
+A: <center><h3>----Video Pembelajaran----</h3> https://1.bp.blogspot.com/-H6viniDHDUA/YRnjtNBJpnI/AAAAAAAAll4/g6VFthLylHE6WI-m8ng1nnm0-iky1PzUQCLcBGAsYHQ/s320/Video%2Bpembelajaran%2B%25282%2529.gif ${ "&#128207 Ukuran Pemusatan Data &#128207" Button11 } ${ "&#128202 Penyajian Data &#128202" Button11 } ${ "&#9997 Ukuran Letak Data &#9997" Button11 } ${ "&#128203 Ukuran penyebaran data &#128203" Button11 }<br> <br>${ "&#128218 Materi Statistika SMA &#128218" Button11 } ${ "&#10024 Menu &#10024" Button1 }</br>
+--
+
+Q: Ukuran Pemusatan Data
+A: <center><h4>Statistika Dasar Ukuran Pemusatan Data</h4> <p>(Mean, Modus, Median)</p> ${ "e2l5AanpYjQ" 200 200 (utube) } ${ "Video Pembelajaran &#128248" Button11 } ${ "&#128218 Materi Statistika SMA &#128218" Button11} ${ "&#10024 Menu &#10024" Button1 }</center>
+--
+
+Q: Penyajian Data
+A: <center><h4>Penyajian Data</h4> <p>( tabel frekuensi, diagram lingkaran, diagram garis,</p> <p>dan diagram batang, Histogram, Poligon & Ogive )</p>${ "NjJaIwHJm5U" 200 200 (utube) } ${ "Video Pembelajaran &#128248" Button11 } ${ "&#128218 Materi Statistika SMA &#128218" Button11 } ${ "&#10024 Menu &#10024" Button1 }</center>
+--
+
+Q: Ukuran Letak Data
+A: <center><h4>Ukuran Letak Data</h3> ${ "qc9AY4V6e5E" 200 200 (utube) } ${ "Video Pembelajaran &#128248" Button11 } ${ "&#128218 Materi Statistika SMA &#128218" Button11} ${ "&#10024 Menu &#10024" Button1 }</center>
+--
+
+Q: Ukuran penyebaran data
+A: <center><h4>Ukuran penyebaran data</h4> <p>Simpangan baku, Ragam/Varian, Simpangan Rata-Rata</p> ${ "8puFDVvzLiA" 200 200 (utube) } ${ "Video Pembelajaran &#128248" Button11 } ${ "&#128218 Materi Statistika SMA &#128218" Button11} ${ "&#10024 Menu &#10024" Button1 }</center>
+--
+
+Q: Menu
+A: <h3><center> MENU UTAMA </center></h3> ${ "Kenapa sih Statistika &#129488" myButton } ${ "&#128200 Pengertian &#128201" myButton } ${ "&#128198 Hari Statistika Nasional &#128198" myButton } ${ "&#128218 Materi Statistika SMA &#128218" myButton } ${ "&#127979 Jurusan Statistika di Indonesia &#127979" myButton } ${ "&#128188 Prospek Kerja &#128188" myButton } ${ "&#128187 Aplikasi dan Kegunaan Statistika &#128187" myButton } ${ "&#128373 Fakta Seputar Statistika &#128373" myButton }
+--
+
+Q: Jurusan Statistika di Indonesia
+A: <center><h2>----JURUSAN----</h2> <h2>STATISTIKA</h2> <h2>DI INDONESIA</h2></center> https://1.bp.blogspot.com/-1HNCg2WwFmo/YRndzI_k8iI/AAAAAAAAllU/Ge02MeI0ifkHVsgRV8X21CnAQQ06yP0qwCLcBGAsYHQ/s320/jurusan.gif <p align="center">Silahkan pilih jenjang jurusan statistika di Indonesia yang ingin kamu tahu ya ya sobat!</p> ${ "D3/D4" Button4 } ${ "S1" Button4 } ${ "S2" Button4 } ${ "S3" Button4 }<p align="left"><b>Note: Data Akreditasi Tahun 2020 ya sobat</b></p> <center>${ "&#10024 Menu &#10024" Button1 }</center> 
+--
+
+Q: D3/D4
+A: <h3><center>Jurusan Statistika D3/D4</center></h3> ${ D3/D4 } <p><b>Sumber:@statistikazone</b> <center>${ "&#127979 Jurusan Statistika di Indonesia &#127979" Button1 } ${ "&#10024 Menu &#10024" Button1 }</center>
+--
+
+Q: S1
+A: <h3><center>Jurusan Statistika S1</center></h3> ${ S1 } <p><b>Sumber:@statistikazone</b> <center>${ "&#127979 Jurusan Statistika di Indonesia &#127979" Button1 } ${ "&#10024 Menu &#10024" Button1 }</center>
+--
+
+Q: S2
+A: <h3><center>Jurusan Statistika S2</center></h3> ${ S2 } <p><b>Sumber:@statistikazone</b> <center>${ "&#127979 Jurusan Statistika di Indonesia &#127979" Button1 } ${ "&#10024 Menu &#10024" Button1 }</center>
+--
+
+Q: S3
+A: <h3><center>Jurusan Statistika S3</center></h3> ${ S3 } <p><b>Sumber:@statistikazone</b> <center>${ "&#127979 Jurusan Statistika di Indonesia &#127979" Button1 } ${ "&#10024 Menu &#10024" Button1 }</center>
+--
+
+Q: Menu
+A: <h3><center> MENU UTAMA </center></h3> ${ "Kenapa sih Statistika &#129488" myButton } ${ "&#128200 Pengertian &#128201" myButton } ${ "&#128198 Hari Statistika Nasional &#128198" myButton } ${ "&#128218 Materi Statistika SMA &#128218" myButton } ${ "&#127979 Jurusan Statistika di Indonesia &#127979" myButton } ${ "&#128188 Prospek Kerja &#128188" myButton } ${ "&#128187 Aplikasi dan Kegunaan Statistika &#128187" myButton } ${ "&#128373 Fakta Seputar Statistika &#128373" myButton }
+--
+
+: pekerjaan
+  q{
+   <p> 1.	Data Scientists <br>
+       2.	Data Engineer <br>
+       3.	Data Analyst <br>
+       4.	Software Engineer <br>
+       5.	Aktuaris <br>
+       6.	Financial Analyst <br>
+       7.	Market Researcher <br>
+       8.	Business Analyst <br>
+       9.	Ahli Ekonomi <br>
+       10.	Financial Manager <br>
+       11.	Ahli Biometrik (Biometrician) <br>
+       12.	Mudlogger <br>
+       13.	Operational Researcher <br>
+       14.	Konsultan <br>
+       15.	Youtuber <br>
+       16.	Blogger <br>
+       17.	Instansi Pemerintah <br>
+       18.	Dosen <br>
+       19.	PNS <br>
+       20.	Pengusaha / Pebisnis <br>
+       <b>Sumber: kampusaja.com</b> <br>
+       </p>
+  }q 
+;
+
+Q: Prospek Kerja
+A: <center><h2>----STATISTIKA----</h2> <h2>DI DUNIA KERJA</h2></center> https://1.bp.blogspot.com/-GVkFfS1qIUk/YRndwhxJ1gI/AAAAAAAAllE/EnBK4wQJeO04jxpJ5Zd1tSSag1UCBkMRgCLcBGAsYHQ/s320/Prospek%2BKerja.gif ${ pekerjaan } <center>${ "&#10024 Menu &#10024" Button1 }</center>
+--
+
+Q: Menu
+A: <h3><center> MENU UTAMA </center></h3> ${ "Kenapa sih Statistika &#129488" myButton } ${ "&#128200 Pengertian &#128201" myButton } ${ "&#128198 Hari Statistika Nasional &#128198" myButton } ${ "&#128218 Materi Statistika SMA &#128218" myButton } ${ "&#127979 Jurusan Statistika di Indonesia &#127979" myButton } ${ "&#128188 Prospek Kerja &#128188" myButton } ${ "&#128187 Aplikasi dan Kegunaan Statistika &#128187" myButton } ${ "&#128373 Fakta Seputar Statistika &#128373" myButton }
+--
+
+Q: Aplikasi dan Kegunaan Statistika
+A: <h3><center>APLIKASI DAN KEGUNAAN STATISTIKA</h3></center> <center>${ "PxVPaqlGG40" 200 200 (utube) } ${ "&#10024 Menu &#10024" Button1 }</center>
+--
+
+Q: Menu
+A: <h3><center> MENU UTAMA </center></h3> ${ "Kenapa sih Statistika &#129488" myButton } ${ "&#128200 Pengertian &#128201" myButton } ${ "&#128198 Hari Statistika Nasional &#128198" myButton } ${ "&#128218 Materi Statistika SMA &#128218" myButton } ${ "&#127979 Jurusan Statistika di Indonesia &#127979" myButton } ${ "&#128188 Prospek Kerja &#128188" myButton } ${ "&#128187 Aplikasi dan Kegunaan Statistika &#128187" myButton } ${ "&#128373 Fakta Seputar Statistika &#128373" myButton }
+--
+
+Q: Fakta Seputar Statistika
+A: <center><h2>----FAKTA SEPUTAR----</h2> <h2>STATISTIKA</h2></center> https://1.bp.blogspot.com/-gDomIHsGWjE/YRndwRUbHwI/AAAAAAAAllA/Rpp9PSxgWmkDxH994WsWwZB-NbFvL65KwCLcBGAsYHQ/s320/Fakta%2BSTK.gif <p align=”justify”>1. Keahlian hitung-menghitung aja jago, menghitung anggaran rumah tangga kalian pasti juga jago.</p> <p>2. Bisa memanfaatkan peluang dengan baik.</p> <p>3. Peluang Kerjanya Luas.</p> <p>4. Biasa mengalami ketidakpastian.</p> <p>5. Jurusan statistika paling sulit, Hingga kesulitan yang kalian alamipun udah terlatih.</p> <p>6. Ilmu yang selalu mengiringi bidang ilmu apapun, bukan tidak mungkin dia selalu mengiring kamu dalam situasi apapun.</p> <p>7. Alumni jurusan statistika di era ini sangat dibutuhkan untuk mengolah data data besar yang penting.</p> <p>8. Karena saat ini sistem elektronik sedang marak maka bagian penting data perusahaan memerlukan lulusan Ilmu statistika untuk mengambil peran sebagai Electronic Data Processing.</p> <p>9. Di bidang media ahli statistika diperlukan untuk menyiapkan data untuk program yang akan disajikan</p><p><b>Sumber:<p>www.berkuliah.com</p><p>pintek.id</b></p> <center>${ "&#10024 Menu &#10024" Button1 }</center> 
+--
+
+Q: Menu
+A: <h3><center> MENU UTAMA </center></h3> ${ "Kenapa sih Statistika &#129488" myButton } ${ "&#128200 Pengertian &#128201" myButton } ${ "&#128198 Hari Statistika Nasional &#128198" myButton } ${ "&#128218 Materi Statistika SMA &#128218" myButton } ${ "&#127979 Jurusan Statistika di Indonesia &#127979" myButton } ${ "&#128188 Prospek Kerja &#128188" myButton } ${ "&#128187 Aplikasi dan Kegunaan Statistika &#128187" myButton } ${ "&#128373 Fakta Seputar Statistika &#128373" myButton }
+--
+
+
+
+
+
+
+
+
+
+
+
+
+
+
